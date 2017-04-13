@@ -1,10 +1,8 @@
-## PRML Study (Korean Ver.)
-
-- Summary for PRML Book. ([Link](http://research.microsoft.com/en-us/um/people/cmbishop/prml/))
+## Nonparametric Bayesian Study (Korean Ver.)
 
 ## Link
 
-- [http://norman3.github.io/prml](http://norman3.github.io/prml)
+- [http://sungbinlim.github.io/NPB](http://sungbinlim.github.io/NPB)
 
 
 
