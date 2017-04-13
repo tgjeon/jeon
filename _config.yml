@@ -1,13 +1,13 @@
 # Site settings
-title: PRML
+title: NPB
 
-email: "swear013@gmail.com"
-url: "http://norman3.github.io"
-github_url: "http://github.com/norman3/prml"
+email: "sunnybenlim@gmail.com"
+url: "http://sungbinlim.github.io"
+github_url: "http://github.com/sungbinlim/NPB"
 github_editurl: "/blob/gh-pages"
-github_profile: "http://github.com/norman3"
-baseurl: "/prml"
-disqus_shortname: norman3github
+github_profile: "http://github.com/sungbinlim"
+baseurl: "/NPB"
+disqus_shortname: sungbinlimgithub
 
 exclude:
   - README.md
