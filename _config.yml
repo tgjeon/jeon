@@ -14,7 +14,7 @@ exclude:
   - _site
   
 highlighter: rouge
-markdown: maruku
+markdown: kramdown
 
 kramdown:
   input: GFM
