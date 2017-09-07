@@ -1,12 +1,12 @@
 # Site settings
-title: NPB
+title: Sungbin Lim's Blog
 
 email: "sunnybenlim@gmail.com"
 url: "http://sungbinlim.github.io"
-github_url: "http://github.com/sungbinlim/NPB"
+github_url: "http://github.com/sungbinlim/sungbin"
 github_editurl: "/blob/gh-pages"
 github_profile: "http://github.com/sungbinlim"
-baseurl: "/NPB"
+baseurl: "/sungbin"
 disqus_shortname: sungbinlimgithub
 
 exclude:
