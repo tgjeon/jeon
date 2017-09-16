@@ -1,7 +1,7 @@
 topnav:
   - title: Chapter
     items:
-      - title: 1. Introduction
+      - title: 1. Preliminaries to Machine Learning
         group: Chapter. 1
         url: /docs/chapter01/0
       - title: 2. Probabilty Distribution
