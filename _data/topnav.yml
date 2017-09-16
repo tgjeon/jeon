@@ -1,19 +1,19 @@
 topnav:
   - title: Chapter
     items:
-      - title: 1. Preliminaries to Machine Learning
+      - title: 1. Breaking News
         group: Chapter. 1
         url: /docs/chapter01/0
-      - title: 2. Probabilty Distribution
+      - title: 2. Preliminaries to Machine Learning
         group: Chapter. 2
         url: /docs/chapter02/0
-      - title: 3. Linear Models for Regression
+      - title: 3. Understanding Machine Learning
         group: Chapter. 3
         url: /docs/chapter03/0
-      - title: 4. Linear Models for Classification
+      - title: 4. Intro to Generative Models
         group: Chapter. 4
         url: /docs/chapter04/0
-      - title: 5. Neural Networks
+      - title: 5. Modern Probability Theory
         group: Chapter. 5
         url: /docs/chapter05/0
   - title: 1
