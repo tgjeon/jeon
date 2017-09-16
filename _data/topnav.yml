@@ -1,8 +1,8 @@
 topnav:
   - title: Chapter
     items:
-      - title: 1. Breaking News
-        group: Breaking News
+      - title: 1. Breaking Papers
+        group: Breaking Papers
         url: /docs/chapter01/0
       - title: 2. Preliminaries to Machine Learning
         group: Chapter. 2
@@ -17,7 +17,7 @@ topnav:
         group: Chapter. 5
         url: /docs/chapter05/0
   - title: 1
-    group: "Breaking News"
+    group: "Breaking Papers"
     url: /docs/chapter01/0
   - title: 2
     group: "Chapter. 2"
