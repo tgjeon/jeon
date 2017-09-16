@@ -4,7 +4,7 @@ topnav:
       - title: 1. Breaking Papers
         group: Chapter. 1
         url: /docs/chapter01/0
-      - title: 2. Understanding Machine Learning : From Theory to Algorithms
+      - title: 2. Understanding Machine Learning
         group: Chapter. 2
         url: /docs/chapter02/0
       - title: 3. Introduction to Generative Models
