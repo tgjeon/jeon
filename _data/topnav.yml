@@ -5,10 +5,10 @@ topnav:
         group: Breaking Papers
         url: /docs/chapter01/0
       - title: 2. Understanding Machine Learning
-        group: Preliminaries to Machine Learning
+        group: Understanding Machine Learning
         url: /docs/chapter02/0
-      - title: 3. Intro to Generative Models
-        group: Intro to Generative Models
+      - title: 3. Introduction to the Generative Models
+        group: Introduction to the Generative Models
         url: /docs/chapter03/0
       - title: 4. Modern Probability Theory
         group: Modern Probability Theory
