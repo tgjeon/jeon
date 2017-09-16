@@ -6,16 +6,16 @@ topnav:
         url: /docs/chapter01/0
       - title: 2. Preliminaries to Machine Learning
         group: Preliminaries to Machine Learning
-        url: /docs/chapter02/0
+        url: /docs/chapter01/0
       - title: 3. Understanding Machine Learning
         group: Understanding Machine Learning
-        url: /docs/chapter03/0
+        url: /docs/chapter02/0
       - title: 4. Intro to Generative Models
         group: Intro to Generative Models
-        url: /docs/chapter04/0
+        url: /docs/chapter03/0
       - title: 5. Modern Probability Theory
         group: Modern Probability Theory
-        url: /docs/chapter05/0
+        url: /docs/chapter04/0
   - title: Breaking Papers
     group: "Breaking Papers"
     url: /docs/chapter01/0
