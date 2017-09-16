@@ -4,16 +4,13 @@ topnav:
       - title: 1. Breaking Papers
         group: Breaking Papers
         url: /docs/chapter01/0
-      - title: 2. Preliminaries to Machine Learning
+      - title: 2. Understanding Machine Learning
         group: Preliminaries to Machine Learning
-        url: /docs/chapter01/0
-      - title: 3. Understanding Machine Learning
-        group: Understanding Machine Learning
         url: /docs/chapter02/0
-      - title: 4. Intro to Generative Models
+      - title: 3. Intro to Generative Models
         group: Intro to Generative Models
         url: /docs/chapter03/0
-      - title: 5. Modern Probability Theory
+      - title: 4. Modern Probability Theory
         group: Modern Probability Theory
         url: /docs/chapter04/0
   - title: Breaking Papers
@@ -21,13 +18,10 @@ topnav:
     url: /docs/chapter01/0
   - title: 1
     group: "Chapter. 2"
-    url: /docs/chapter01/0
+    url: /docs/chapter02/0
   - title: 2
     group: "Chapter. 3"
-    url: /docs/chapter02/0
+    url: /docs/chapter03/0
   - title: 3
     group: "Chapter. 4"
-    url: /docs/chapter03/0
-  - title: 4
-    group: "Chapter. 5"
-    url: /docs/chapter04/0    
+    url: /docs/chapter04/0
