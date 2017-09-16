@@ -32,9 +32,5 @@ topnav:
   - title: 5
     group: "Chapter. 5"
     url: /docs/chapter05/0    
-  - title: 6
-    group: "Chapter. 6"
-    disable: true
-    url: /docs/chapter06/0
     
 
