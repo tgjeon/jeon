@@ -1,12 +1,12 @@
 # Site settings
-title: Madmatics
+title: SL
 
 email: "sunnybenlim@gmail.com"
 url: "http://sungbinlim.github.io"
-github_url: "http://github.com/sungbinlim/sungbin"
+github_url: "http://github.com/sungbinlim/SL"
 github_editurl: "/blob/gh-pages"
 github_profile: "http://github.com/sungbinlim"
-baseurl: "/sungbin"
+baseurl: "/SL"
 disqus_shortname: sungbinlimgithub
 
 exclude:
