@@ -2,7 +2,7 @@
 
 ## Link
 
-- [http://sungbinlim.github.io/sungbin](http://sungbinlim.github.io/sungbin)
+- [http://sungbinlim.github.io/SL](http://sungbinlim.github.io/SL)
 
 
 
