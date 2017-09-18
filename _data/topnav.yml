@@ -1,27 +1,27 @@
 topnav:
   - title: Contents
     items:
-      - title: 1. Breaking Papers
+      - title: Breaking Papers
         group: Breaking Papers
+        url: /docs/papers/0
+      - title: 1. All of Statistics
+        group: All of Statistics
         url: /docs/chapter01/0
-      - title: 2. Understanding Machine Learning
-        group: Understanding Machine Learning
+      - title: 2. Elements of Statistical Learning
+        group: Elements of Statistical Learning
         url: /docs/chapter02/0
-      - title: 3. Introduction to the Generative Models
-        group: Introduction to the Generative Models
+      - title: 3. Modern Probability Theory
+        group: Nonparametric Statistics
         url: /docs/chapter03/0
-      - title: 4. Modern Probability Theory
-        group: Modern Probability Theory
-        url: /docs/chapter04/0
   - title: 1
     group: "Breaking Papers"
-    url: /docs/chapter01/0
+    url: /docs/papers/0
   - title: 2
-    group: "Chapter. 2"
-    url: /docs/chapter02/0
+    group: "All of Statistics"
+    url: /docs/chapter01/0
   - title: 3
-    group: "Chapter. 3"
-    url: /docs/chapter03/0
+    group: "Elements of Statistical Learning"
+    url: /docs/chapter02/0
   - title: 4
-    group: "Chapter. 4"
-    url: /docs/chapter04/0
+    group: "Modern Probability Theory"
+    url: /docs/chapter03/0
