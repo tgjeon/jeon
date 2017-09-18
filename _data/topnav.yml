@@ -7,21 +7,27 @@ topnav:
       - title: 1. All of Statistics
         group: All of Statistics
         url: /docs/chapter01/0
-      - title: 2. Elements of Statistical Learning
-        group: Elements of Statistical Learning
+      - title: 2. All of Nonparametric Statistics
+        group: All of Nonparametric Statistics
         url: /docs/chapter02/0
-      - title: 3. Modern Probability Theory
-        group: Nonparametric Statistics
+      - title: 3. Elements of Statistical Learning
+        group: Elements of Statistical Learning
         url: /docs/chapter03/0
-  - title: 1
+      - title: 4. Modern Probability Theory
+        group: Nonparametric Statistics
+        url: /docs/chapter04/0
+  - title: Breaking Papers
     group: "Breaking Papers"
     url: /docs/papers/0
-  - title: 2
+  - title: 1
     group: "All of Statistics"
     url: /docs/chapter01/0
+  - title: 2
+    group: "All of Nonparametric Statistics"
+    url: /docs/chapter02/0
   - title: 3
     group: "Elements of Statistical Learning"
-    url: /docs/chapter02/0
+    url: /docs/chapter03/0
   - title: 4
     group: "Modern Probability Theory"
-    url: /docs/chapter03/0
+    url: /docs/chapter04/0
