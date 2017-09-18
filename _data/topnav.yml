@@ -1,8 +1,8 @@
 topnav:
   - title: Contents
     items:
-      - title: 1. Analytic approach to Generative Models
-        group: Analytic approach to Generative Models
+      - title: 1. Analytic Approach to Generative Models
+        group: Analytic Approach to Generative Models
         url: /docs/agm/0
       - title: 2. All of Statistics
         group: All of Statistics
@@ -17,7 +17,7 @@ topnav:
         group: Nonparametric Statistics
         url: /docs/mpt/0
   - title: 1
-    group: "Analytic approach to Generative Models"
+    group: "Analytic Approach to Generative Models"
     url: /docs/agm/0
   - title: 2
     group: "All of Statistics"
