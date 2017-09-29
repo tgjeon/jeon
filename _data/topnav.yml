@@ -13,8 +13,11 @@ topnav:
       - title: 4. Elements of Statistical Learning
         group: Elements of Statistical Learning
         url: /docs/esl/0
-      - title: 5. Modern Probability Theory
-        group: Nonparametric Statistics
+      - title: 5. Mathematical Foundations of Data Sciences
+        group: Mathematical Foundations of Data Sciences
+        url: /docs/mfds/0
+      - title: 6. Modern Probability Theory
+        group: Modern Probability Theory
         url: /docs/mpt/0
   - title: 1
     group: "Analytic Approach to Generative Models"
@@ -29,5 +32,8 @@ topnav:
     group: "Elements of Statistical Learning"
     url: /docs/esl/0
   - title: 5
+    group: "Mathematical Foundations of Data Sciences"
+    url: /docs/mfds/0
+  - title: 6
     group: "Modern Probability Theory"
     url: /docs/mpt/0
