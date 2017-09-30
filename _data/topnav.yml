@@ -32,8 +32,8 @@ topnav:
     group: "Elements of Statistical Learning"
     url: /docs/esl/0
   - title: 5
-    group: "Mathematical Fundamentals of Data Sciences"
-    url: /docs/mfds/0
+    group: "Mathematical Principles of Data Sciences"
+    url: /docs/mpds/0
   - title: 6
     group: "Modern Probability Theory"
     url: /docs/mpt/0
