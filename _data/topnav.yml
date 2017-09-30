@@ -1,39 +1,36 @@
 topnav:
   - title: Contents
     items:
-      - title: 1. Analytic Approach to Generative Models
+      - title: Analytic Approach to Generative Models
         group: Analytic Approach to Generative Models
         url: /docs/agm/0
-      - title: 2. All of Statistics
+      - title: All of Statistics
         group: All of Statistics
         url: /docs/aos/0
-      - title: 3. All of Nonparametric Statistics
+      - title: All of Nonparametric Statistics
         group: All of Nonparametric Statistics
         url: /docs/aons/0
-      - title: 4. Elements of Statistical Learning
+      - title: Elements of Statistical Learning
         group: Elements of Statistical Learning
         url: /docs/esl/0
-      - title: 5. Mathematical Foundations of Data Sciences
-        group: Mathematical Foundations of Data Sciences
-        url: /docs/mfds/0
-      - title: 6. Modern Probability Theory
+      - title: Mathematical Principles of of Data Sciences
+        group: Mathematical Principles of Data Sciences
+        url: /docs/mpds/0
+      - title: Modern Probability Theory
         group: Modern Probability Theory
         url: /docs/mpt/0
   - title: 1
-    group: "Analytic Approach to Generative Models"
-    url: /docs/agm/0
-  - title: 2
     group: "All of Statistics"
     url: /docs/aos/0
-  - title: 3
+  - title: 2
     group: "All of Nonparametric Statistics"
     url: /docs/aons/0
-  - title: 4
+  - title: 3
     group: "Elements of Statistical Learning"
     url: /docs/esl/0
-  - title: 5
-    group: "Mathematical Foundations of Data Sciences"
+  - title: 4
+    group: "Mathematical Fundamentals of Data Sciences"
     url: /docs/mfds/0
-  - title: 6
+  - title: 5
     group: "Modern Probability Theory"
     url: /docs/mpt/0
