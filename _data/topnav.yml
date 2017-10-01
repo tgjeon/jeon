@@ -4,30 +4,36 @@ topnav:
       - title: 1. Analytic Approach to Generative Models
         group: Analytic Approach to Generative Models
         url: /docs/agm/0
-      - title: 2. All of Statistics
-        group: All of Statistics
-        url: /docs/aos/0
-      - title: 3. All of Nonparametric Statistics
+      - title: 2. All of Statistics - Statistical Inference 
+        group: Statistical Inference
+        url: /docs/aos2/0
+      - title: 3. All of Statistics - Statistical Models and Methods
+        group: Statistical Models and Methods
+        url: /docs/aos3/0
+      - title: 4. All of Nonparametric Statistics
         group: All of Nonparametric Statistics
         url: /docs/aons/0
-      - title: 4. Mathematical Principles of Statistical Learning
+      - title: 5. Mathematical Principles of Statistical Learning
         group: Mathematical Principles of Data Sciences
         url: /docs/mpsl/0
-      - title: 5. Modern Probability Theory
+      - title: 6. Modern Probability Theory
         group: Modern Probability Theory
         url: /docs/mpt/0
   - title: 1
     group: "Analytic Approach to Generative Models"
     url: /docs/agm/0
   - title: 2
-    group: "All of Statistics"
-    url: /docs/aos/0
+    group: "Statistical Inference"
+    url: /docs/aos2/0
   - title: 3
+    group: "Statistical Models and Methods"
+    url: /docs/aos3/0    
+  - title: 4
     group: "All of Nonparametric Statistics"
     url: /docs/aons/0
-  - title: 4
+  - title: 5
     group: "Mathematical Principles of Statistical Learning"
     url: /docs/mpsl/0
-  - title: 5
+  - title: 6
     group: "Modern Probability Theory"
     url: /docs/mpt/0
