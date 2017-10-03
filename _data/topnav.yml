@@ -19,6 +19,9 @@ topnav:
       - title: 6. Modern Probability Theory
         group: Modern Probability Theory
         url: /docs/mpt/0
+      - title: 7. Nonparametric Bayesian
+        group: Nonparametric Bayesian
+        url: /docs/npb/0
   - title: 1
     group: "Analytic Approach to Generative Models"
     url: /docs/agm/0
@@ -27,7 +30,7 @@ topnav:
     url: /docs/aos2/0
   - title: 3
     group: "Statistical Models and Methods"
-    url: /docs/aos3/0    
+    url: /docs/aos3/0
   - title: 4
     group: "All of Nonparametric Statistics"
     url: /docs/aons/0
@@ -37,3 +40,6 @@ topnav:
   - title: 6
     group: "Modern Probability Theory"
     url: /docs/mpt/0
+  - title: 7
+    group: "Nonparametric Bayesian"
+    url: /docs/npb/0
