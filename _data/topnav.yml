@@ -23,8 +23,16 @@ topnav:
         group: Nonparametric Bayesian
         url: /docs/npb/0
   - title: 1
-    group: "Analytic Approach to Generative Models"
-    url: /docs/agm/0
+    items:
+      - title: Preface
+        group: "Analytic Approach to Generative Models"
+        url: /docs/agm/0
+      - title: Generative Adversarial Nets
+        group: "GAN"
+        url: /docs/agm/1
+      - title: Variational Auto-Encoder
+        group: "VAE"
+        url: /docs/agm/2
   - title: 2
     group: "Statistical Inference"
     url: /docs/aos2/0
