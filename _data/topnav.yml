@@ -24,15 +24,15 @@ topnav:
         url: /docs/npb/0
   - title: 1
     items:
-      - title: Preface
+      - title: 0. Preface
         group: "Analytic Approach to Generative Models"
         url: /docs/agm/0
-      - title: Generative Adversarial Nets
+      - title: 1. Generative Adversarial Nets
         group: "GAN"
-        url: /docs/agm/1
-      - title: Variational Auto-Encoder
+        url: /docs/agm/0101
+      - title: 2. Variational Auto-Encoder
         group: "VAE"
-        url: /docs/agm/2
+        url: /docs/agm/0201
   - title: 2
     group: "Statistical Inference"
     url: /docs/aos2/0
