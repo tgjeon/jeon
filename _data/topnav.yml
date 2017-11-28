@@ -10,7 +10,7 @@ topnav:
       - title: 3. Miscellaneous Topics in Modern Probability
         group: Miscellaneous Topics in Modern Probability
         url: /docs/mpt/0
-  - title: 1
+  - title: 1. Statistical Learning
     items:
       - title: 1. Kolmogorov Probability Axiom
         group: "Kolmogorov Probability Axiom"
@@ -18,10 +18,10 @@ topnav:
       - title: 2. Elementary Measure Theory
         group: "Elementary Measure Theory"
         url: /docs/mpsl/0201
-  - title: 2
+  - title: 2. Bayesian
     group: "Nonparametric Bayesian "
     url: /docs/npb/0
-  - title: 3
+  - title: 3. Probability
     group: "Miscellaneous Topics in Modern Probability"
     url: /docs/mpt/0
 
