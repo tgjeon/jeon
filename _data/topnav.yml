@@ -1,53 +1,27 @@
 topnav:
   - title: Contents
     items:
-      - title: 1. Analytic Approach to Generative Models
-        group: Analytic Approach to Generative Models
-        url: /docs/agm/0
-      - title: 2. All of Statistics - Statistical Inference 
-        group: Statistical Inference
-        url: /docs/aos2/0
-      - title: 3. All of Statistics - Statistical Models and Methods
-        group: Statistical Models and Methods
-        url: /docs/aos3/0
-      - title: 4. All of Nonparametric Statistics
-        group: All of Nonparametric Statistics
-        url: /docs/aons/0
-      - title: 5. Mathematical Principles of Statistical Learning
-        group: Mathematical Principles of Data Sciences
+      - title: 1. Mathematical Principles of Statistical Learning
+        group: Mathematical Principles of Statistical Learning
         url: /docs/mpsl/0
-      - title: 6. Modern Probability Theory
-        group: Modern Probability Theory
-        url: /docs/mpt/0
-      - title: 7. Nonparametric Bayesian
+      - title: 2. Nonparametric Bayesian 
         group: Nonparametric Bayesian
         url: /docs/npb/0
+      - title: 3. Miscellaneous Topics in Modern Probability
+        group: Miscellaneous Topics in Modern Probability
+        url: /docs/mpt/0
   - title: 1
     items:
-      - title: 0. Preface
-        group: "Analytic Approach to Generative Models"
-        url: /docs/agm/0
-      - title: 1. Generative Adversarial Nets
-        group: "GAN"
-        url: /docs/agm/0101
-      - title: 2. Variational Auto-Encoder
-        group: "VAE"
-        url: /docs/agm/0201
+      - title: 1. Kolmogorov Probability Axiom
+        group: "Kolmogorov Probability Axiom"
+        url: /docs/mpsl/0101
+      - title: 2. Elementary Measure Theory
+        group: "Elementary Measure Theory"
+        url: /docs/mpsl/0201
   - title: 2
-    group: "Statistical Inference"
-    url: /docs/aos2/0
-  - title: 3
-    group: "Statistical Models and Methods"
-    url: /docs/aos3/0
-  - title: 4
-    group: "All of Nonparametric Statistics"
-    url: /docs/aons/0
-  - title: 5
-    group: "Mathematical Principles of Statistical Learning"
-    url: /docs/mpsl/0
-  - title: 6
-    group: "Modern Probability Theory"
-    url: /docs/mpt/0
-  - title: 7
-    group: "Nonparametric Bayesian"
+    group: "Nonparametric Bayesian "
     url: /docs/npb/0
+  - title: 3
+    group: "Miscellaneous Topics in Modern Probability"
+    url: /docs/mpt/0
+
