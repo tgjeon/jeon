@@ -1,12 +1,12 @@
 # Site settings
-title: All of SL
+title: jeon
 
 email: "sunnybenlim@gmail.com"
-url: "http://sungbinlim.github.io"
-github_url: "http://github.com/sungbinlim/sl"
+url: "http://tgjeon.github.io"
+github_url: "http://github.com/tgjeon/jeon"
 github_editurl: "/blob/gh-pages"
 github_profile: "https://www.dropbox.com/s/huik76zchc9n5dl/CV_sungbin.pdf?dl=0"
-baseurl: "/sl"
+baseurl: "/jeon"
 disqus_shortname: sungbinlimgithub
 
 exclude:
