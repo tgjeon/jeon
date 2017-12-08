@@ -1,13 +1,13 @@
 # Site settings
-title: jeon
+title: mldl
 
-email: "sunnybenlim@gmail.com"
+email: "taylor.taegyun.jeon@gmail.com"
 url: "http://tgjeon.github.io"
-github_url: "http://github.com/tgjeon/jeon"
+github_url: "http://github.com/tgjeon/mldl"
 github_editurl: "/blob/gh-pages"
-github_profile: "https://www.dropbox.com/s/huik76zchc9n5dl/CV_sungbin.pdf?dl=0"
-baseurl: "/jeon"
-disqus_shortname: sungbinlimgithub
+github_profile: "https://www.dropbox.com/s/flipfl9phvi6gh9/cv-tgjeon.pdf?dl=0"
+baseurl: "/mldl"
+disqus_shortname: tgjeon
 
 exclude:
   - README.md
